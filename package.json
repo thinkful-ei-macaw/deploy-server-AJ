@@ -21,10 +21,13 @@
     "helmet": "^3.22.0",
     "knex": "^0.20.13",
     "morgan": "^1.10.0",
-    "pg": "^8.0.0"
+    "pg": "^8.0.0",
+    "winston": "^3.2.1",
+    "xss": "^1.0.6"
   },
   "devDependencies": {
     "chai": "^4.2.0",
+    "logger": "0.0.1",
     "mocha": "^7.1.1",
     "nodemon": "^2.0.2",
     "postgrator-cli": "^3.2.0",
